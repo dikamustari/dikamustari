@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="1107.gif" alt="Deskripsi GIF">
+  <img src="banner.png" alt="Deskripsi GIF">
 </p>
