@@ -2,13 +2,19 @@
   <img src="banner.png" alt="Deskripsi GIF">
 </p>
 
-<div align="center">
+## 👨‍💻About Me
 
+- 🎓 IT Students at the Kalimantan Institute of Technology
+- 💻 Currently making personal website
+- 🌱 Focused on cybersecurity, specifically OSINT (Open-Source Intelligence)
+- 🎯 Goal: Becoming a Cybersecurity Specialist with a strong focus on OSINT and Threat Intelligence
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
+## ⚙️Tech Stack
 
-  ## 💻Tech Stack
+<div align="center">
+
 
   #### Language
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -18,11 +24,13 @@
   #### Tools
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
+ ## 📱Social Media & Contact
 
-  ## Social Media & Contact
+<div align="center">
 
   [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/andika.mustari.58)
   [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikamustari)
