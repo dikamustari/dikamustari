@@ -2,6 +2,13 @@
   <img src="banner.png" alt="Deskripsi GIF">
 </p>
 
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=992FF7&width=435&lines=Ordinary+IT+student;Interested+in+cybersecurity;OSINT+enthusiast;Ordinary+CTF+player)](https://git.io/typing-svg)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
+
 ## 👨‍💻About Me
 
 - 🎓 IT Students at the Kalimantan Institute of Technology
