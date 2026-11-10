@@ -42,6 +42,8 @@
   [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282350659452)
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
+
 ## Github Stats
 
 <div align="center">
