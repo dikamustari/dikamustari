@@ -46,5 +46,5 @@
 
 <div align="center">
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dikamustari&show_icons=true&include_all_commits=true&theme=midnight-purple)]
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dikamustari&show_icons=true&include_all_commits=true&theme=midnight-purple)
 </div>
