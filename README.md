@@ -41,3 +41,10 @@
   [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikamustari47@gmail.com)
   [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282350659452)
 </div>
+
+## Github Stats
+
+<div align="center">
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dikamustari&show_icons=true&include_all_commits=true&theme=midnight-purple)]
+</div>
