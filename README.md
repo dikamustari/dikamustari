@@ -9,7 +9,7 @@
 
 ## 👨‍💻About Me
 
-- 🎓 IT Students at the Kalimantan Institute of Technology
+- 🎓 IT Student at the Kalimantan Institute of Technology
 - 💻 Currently making personal website
 - 🌱 Focused on cybersecurity, specifically OSINT (Open-Source Intelligence)
 - 🎯 Goal: Becoming a Cybersecurity Specialist with a strong focus on OSINT and Threat Intelligence
@@ -37,14 +37,9 @@
 
 <div align="center">
 
-  [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/andika.mustari.58)
   [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikamustari)
   [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dikajeremy/?utm_source=ig_web_button_share_sheet)
   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andika-mustari-3163383ba/)
-  [![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
-  [![image](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)]()
-  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikamustari47@gmail.com)
-  [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282350659452)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
